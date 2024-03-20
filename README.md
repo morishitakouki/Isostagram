@@ -37,7 +37,7 @@
 
 [![Image from Gyazo](https://i.gyazo.com/73b0c6a1d0c8131b9fb3a075ba122083.png)](https://gyazo.com/73b0c6a1d0c8131b9fb3a075ba122083)
 
- **Github** : https://github.com/morishitakouki/Isostagram/tree/main
+ **Github** : https://github.com/morishitakouki/Isostagram/tree/main　<br />
 **url** : https://rails-react-frontend-blog-e49b147a0c56.herokuapp.com/
 
 ## アプリの概要
