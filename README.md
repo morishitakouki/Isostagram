@@ -49,7 +49,7 @@
   <p align="left">
     <br />
     <!-- プロジェクト詳細にBacklogのWikiのリンク -->
-    <a href="Backlogのwikiリンク"><strong>プロジェクト詳細 »</strong></a>
+    <a href="https://qiita.com/kokihello/items/6420fb40fda7919eca7c"><strong>qiitaに開発の詳細を載せました！ »</strong></a>
     <br />
     <br />
 
