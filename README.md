@@ -43,7 +43,21 @@
 ## アプリの概要
 バックエンドにrailsとフロントエンドにreactを使ったblogアプリを作りました。
 
+‎README.md
+-6
 
+
+Original file line number	Diff line number	Diff line change
+@@ -46,12 +46,6 @@
+
+
+
+<p align="left">
+  <br />
+  <!-- プロジェクト詳細にBacklogのWikiのリンク -->
+  <a href="https://qiita.com/kokihello/items/6420fb40fda7919eca7c"><strong>qiitaに開発の詳細を載せました！ »</strong></a>
+  <br />
+  <br />
 
 
 
